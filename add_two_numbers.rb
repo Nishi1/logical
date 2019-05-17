@@ -13,7 +13,7 @@ while b > 0
 
 	a += 1    #post increment a++
 	
-	b -= 1    #post decrement --b
+	b -= 1    #post decrement b--
 
 end
 
